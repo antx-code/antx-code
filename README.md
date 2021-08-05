@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### Platform
 
-![MacOs](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)
+![MacOs](https://img.shields.io/badge/MacOS-Mojave-d0d1d4?style=flat-square&logo=Apple)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04%20LTS-E95420?style=flat-square&logo=Ubuntu)
 
 #### Tools
