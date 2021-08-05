@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 
 #### Tools
 
-![Emacs](https://img.shields.io/badge/-Emacs-563D7C?style=flat-square&logo=emacs&logoColor=ffffff)
+![Emacs](https://img.shields.io/badge/-Emacs-563D7C?style=flat-square&logo=spacemacs&logoColor=ffffff)
 ![Neovim](https://img.shields.io/badge/-neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
 #### Languages
 
-![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Golang](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
+![Lua](https://img.shields.io/badge/-Lua-563D7C?style=flat-square&logo=lua&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-F7DF1E?style=flat-square&logo=node.js&logoColor=ffffff)
 
 #### Console&Game
 
