@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 #### Game
 
-![PlayStation4Pro](https://img.shields.io/badge/-PlayStation%204%20Pro-eeeeee?style=flat-square&logo=playstation4&logoColor=000000)
-![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
+![PlayStation 4](https://img.shields.io/static/v1?style=for-the-badge&message=PlayStation+4&color=003791&logo=PlayStation+4&logoColor=FFFFFF&label=)
+![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)
