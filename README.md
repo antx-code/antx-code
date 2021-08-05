@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-181717?style=flat-square&logo=rust&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/-Lua-563D7C?style=flat-square&logo=lua&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F7DF1E?style=flat-square&logo=node.js&logoColor=ffffff)
 
-#### Console&Game
+#### Game
 
 ![PlayStation4Pro](https://img.shields.io/badge/-PlayStation%204%20Pro-eeeeee?style=flat-square&logo=playstation4&logoColor=000000)
 ![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
