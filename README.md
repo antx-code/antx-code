@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 #### Console&Game
 
 [![](https://img.shields.io/badge/-PlayStation%205-eeeeee?style=flat-square&logo=playstation5&logoColor=000000)](https://psnine.com/psnid/sljeff)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/kindjeff)
