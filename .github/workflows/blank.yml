@@ -5,12 +5,12 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '0 2 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: antx-code/antx-code@main
+      - uses: antx-code/readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIMECODEFORSA }}
