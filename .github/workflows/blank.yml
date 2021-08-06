@@ -11,6 +11,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: antx-code/readme@master
+      - uses: antx-code/antx-code@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIMECODEFORSA }}
