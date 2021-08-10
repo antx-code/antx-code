@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: antx-code/readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIMECODEFORSA }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIMECODESA }}
