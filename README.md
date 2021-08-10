@@ -7,7 +7,7 @@ class Antx:
     def __init__(self):
         self.nickname = 'antx'
         self.education = 'Master of Science in Electronics and Communication Engineering, GXU'
-        self.research = 'Robo-Advisor'
+        self.research = ['Robo-Advisor', 'Blockchain']
         self.skill = ['Python', 'Golang', 'Rust', 'E-Lisp', 'C', 'C++', 'Lua', 'Php', 'Node.js', 'Vue.js']
         self.work = 'Cyber Security'
     
