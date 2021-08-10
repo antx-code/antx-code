@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working in the field of cyber security
 - 🌱 I’m currently learning machine Learning
-- ⚡ My research area currently is Robo-Advisor ![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
+- ⚡ My research area currently is Robo-Advisor
+
+![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
 
 <!--
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=antx-code&hide=html&layout=compact&theme=radical)
