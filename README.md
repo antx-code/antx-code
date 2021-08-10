@@ -1,16 +1,17 @@
 ### Hi there is ✨ antx space ✨ 👋
 
-<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+<img align="right" width="400" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```python
 class Antx:
     def __init__(self):
         self.nickname = 'antx'
+        self.research = 'robo-advisor'
         self.skill = ['Python', 'Golang', 'Rust', 'E-Lisp', 'C', 'C++', 'Lua', 'Php', 'Node.js', 'Vue.js']
+        self.work = 'cyber security'
     
     def communication(self):
         email = 'wkaifeng2007@163.com'
-        wechat = 'antx200601d'
 
 ```
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
