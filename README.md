@@ -19,7 +19,12 @@ class Antx:
 ### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
+```text
+Python       3 hrs 8 mins    █████████████▒░░░░░░░░░░░   52.88 % 
+Markdown     2 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   35.76 % 
+Git Config   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Org          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
