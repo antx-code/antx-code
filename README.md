@@ -50,7 +50,6 @@ class Antx:
 ![Emacs](https://img.shields.io/static/v1?style=for-the-badge&message=Emacs&color=9266CC&logo=Spacemacs&logoColor=FFFFFF&label=)
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 ![dwm](https://img.shields.io/static/v1?style=for-the-badge&message=dwm&color=1177AA&logo=dwm&logoColor=FFFFFF&label=)
-
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 
