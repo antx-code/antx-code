@@ -1,9 +1,15 @@
 ### Hi there is ✨ antx space ✨ 👋
 
-- 🔭 I’m currently working in the field of cyber security
-- 🌱 I’m currently learning machine Learning
-- ⚡ My research area currently is Robo-Advisor
-
+```python
+class Antx:
+    def __init__(self):
+        self.nickname = 'antx'
+        self.skill = ['Python', 'Golang', 'Rust', 'E-Lisp', 'C', 'C++', 'Lua', 'Php', 'Node.js', 'Vue.js']
+    
+    def communication(self):
+        email = 'wkaifeng2007@163.com'
+        wechat = 'antx200601d'
+```
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
 
 <!--
