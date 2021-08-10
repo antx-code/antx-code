@@ -1,5 +1,7 @@
 ### Hi there is ✨ antx space ✨ 👋
 
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+
 ```python
 class Antx:
     def __init__(self):
@@ -9,6 +11,7 @@ class Antx:
     def communication(self):
         email = 'wkaifeng2007@163.com'
         wechat = 'antx200601d'
+
 ```
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
 
