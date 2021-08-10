@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
+![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=antx-code&hide=html&layout=compact&theme=radical)
+![SummaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antx-code&theme=monokai)
 
 #### Platform
 
