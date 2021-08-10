@@ -16,7 +16,11 @@ class Antx:
 ```
 ### Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
+### :bar_chart: Weekly development breakdown
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <!--
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=antx-code&hide=html&layout=compact&theme=radical)
 ![SummaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antx-code&theme=monokai)
