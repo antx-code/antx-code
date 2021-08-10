@@ -21,6 +21,7 @@ class Antx:
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
 <!--
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=antx-code&hide=html&layout=compact&theme=radical)
 ![SummaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antx-code&theme=monokai)
@@ -59,7 +60,7 @@ class Antx:
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 
-### Notes
+### Note
 
 ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
 
