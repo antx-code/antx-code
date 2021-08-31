@@ -20,11 +20,11 @@ class Antx:
 
 <!--START_SECTION:waka-->
 ```text
-Python            23 hrs 50 mins  ███████████████████████▓░   94.84 % 
-Text              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-YAML              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Docker            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Protocol Buffer   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python              23 hrs 8 mins   ███████████████████████░░   91.61 % 
+Docker              53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Text                35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Protocol Buffer     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Debian Sourcelist   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
 
