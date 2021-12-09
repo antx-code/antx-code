@@ -20,10 +20,9 @@ class Antx:
 
 <!--START_SECTION:waka-->
 ```text
-Python           13 hrs 53 mins  ████████████████████████▓   98.30 % 
-YAML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-CSV/TSV          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python    16 hrs 14 mins  ████████████████████████▓   99.17 % 
+CSV/TSV   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+YAML      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
