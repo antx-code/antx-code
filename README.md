@@ -20,11 +20,7 @@ class Antx:
 
 <!--START_SECTION:waka-->
 ```text
-C++      8 mins          ███████▓░░░░░░░░░░░░░░░░░   30.10 % 
-Python   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Go       4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-C        4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Text     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
