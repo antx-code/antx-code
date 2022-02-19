@@ -20,8 +20,6 @@ class Antx:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 6 hrs
-
 Python           4 hrs 15 mins   █████████████████▓░░░░░░░   70.84 % 
 Go               30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 Org              20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
