@@ -19,13 +19,16 @@ class Antx:
 ### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Python           10 hrs 57 mins  ██████████████████████░░░   87.65 % 
-CSV              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Text             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-GitIgnore file   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Python           10 hrs 57 mins  ██████████████████████░░░   87.65 %
+CSV              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Text             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+GitIgnore file   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Org              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
