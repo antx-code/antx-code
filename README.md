@@ -21,8 +21,7 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 mins          ████████████████████▓░░░░   82.63 %
-Org      1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
