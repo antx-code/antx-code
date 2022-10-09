@@ -21,7 +21,12 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Org        1 hr 8 mins     ██████████▓░░░░░░░░░░░░░░   42.36 %
+Python     42 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
+Markdown   41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+JSON       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+CSV        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
