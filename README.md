@@ -8,7 +8,7 @@ class Antx:
         self.nickname = 'antx'
         self.education = 'Master of Science in Electronics and Communication Engineering, GXU'
         self.research = ['Robo-Advisor', 'Blockchain']
-        self.skill = ['Python', 'Golang', 'Rust', 'E-Lisp', 'C', 'C++', 'Lua', 'Php', 'Node.js', 'Vue.js']
+        self.skill = ['Python', 'Golang', 'Rust', 'E-Lisp', 'C', 'C++', 'Lua', 'Nodejs', 'TypeScript', 'Dart']
         self.work = 'Cyber Security'
     
     def communication(self):
