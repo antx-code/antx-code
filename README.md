@@ -22,8 +22,8 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```text
-Python   5 hrs 20 mins   ████████████████████████░   95.50 %
-SQL      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Python   1 hr 56 mins    ██████████████████████░░░   88.54 %
+SQL      15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
 ```
 
 <!--END_SECTION:waka-->
