@@ -13,7 +13,7 @@ class Antx:
         self.work = 'Cyber Security'
     
     def communication(self):
-        email = 'wkaifeng2007@163.com'
+        email = None
 ```
 ### Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
