@@ -22,11 +22,11 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-Bash              2 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Python            2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-GDScript          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-ActionScript 3    1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Java              4 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+Bash              2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Python            2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+ActionScript 3    1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Markdown          53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
