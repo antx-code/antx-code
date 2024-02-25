@@ -22,11 +22,11 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 53 mins   █████████████████▒░░░░░░░   69.46 %
-TypeScript     52 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-Markdown       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Shell Script   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-TOML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python         2 hrs 53 mins   █████████████████▒░░░░░░░   69.02 %
+TypeScript     52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+Markdown       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Shell Script   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+TOML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
