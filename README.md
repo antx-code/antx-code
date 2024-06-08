@@ -22,11 +22,7 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.16 %
-Kotlin            9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-Java              6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Java Properties   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-JSON              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Python   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
