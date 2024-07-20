@@ -22,7 +22,8 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   2 mins          █████████████████████████   100.00 %
+Python   15 mins         █████████████████████▓░░░   86.99 %
+YAML     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
 ```
 
 <!--END_SECTION:waka-->
