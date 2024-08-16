@@ -22,7 +22,11 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python             1 hr 46 mins    █████████████▓░░░░░░░░░░░   54.09 %
+YAML               1 hr 2 mins     ████████░░░░░░░░░░░░░░░░░   31.36 %
+Docker             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+gitignore          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Text               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
