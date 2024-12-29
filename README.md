@@ -22,11 +22,11 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     5 hrs 29 mins   █████████████▒░░░░░░░░░░░   53.46 %
-Other                      1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Markdown                   1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-SystemVerilog              1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-YAML                       50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Python                     5 hrs 29 mins   █████████████▒░░░░░░░░░░░   52.68 %
+Other                      1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Markdown                   1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+SystemVerilog              1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+YAML                       50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->
