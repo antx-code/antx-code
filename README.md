@@ -22,10 +22,8 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        1 hr 9 mins     ███████████████████▓░░░░░   79.29 %
-Markdown    11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Python      6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Caddyfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python     6 mins          ███████████████▒░░░░░░░░░   61.23 %
+Markdown   4 mins          █████████▓░░░░░░░░░░░░░░░   38.77 %
 ```
 
 <!--END_SECTION:waka-->
