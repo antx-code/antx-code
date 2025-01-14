@@ -22,8 +22,7 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     6 mins          ███████████████▒░░░░░░░░░   61.23 %
-Markdown   4 mins          █████████▓░░░░░░░░░░░░░░░   38.77 %
+Markdown   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
