@@ -22,11 +22,11 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   7 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.74 %
-Python                     4 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-YAML                       4 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Git Config                 2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-JSON                       1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Markdown                   7 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.53 %
+Python                     4 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
+YAML                       4 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Git Config                 2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+JSON                       1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 ```
 
 <!--END_SECTION:waka-->
