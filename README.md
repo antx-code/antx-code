@@ -22,9 +22,7 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         17 mins         █████████████████▒░░░░░░░   69.13 %
-Other        7 mins          ███████░░░░░░░░░░░░░░░░░░   28.22 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
