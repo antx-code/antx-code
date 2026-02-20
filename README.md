@@ -22,9 +22,7 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   14 mins               ███████████▒░░░░░░░░░░░░░   45.10 %
-CSV        9 mins                ███████▓░░░░░░░░░░░░░░░░░   30.03 %
-Other      7 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
