@@ -22,7 +22,8 @@ class Antx:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   10 mins               ████████████████████████▒   97.46 %
+JSON    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
