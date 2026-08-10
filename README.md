@@ -1,3 +1,5 @@
+
+
 ## Hi there is ✨ antx space ✨ 👋
 
 <img align="right" width="400" src="https://i.imgur.com/ugWb6BU.gif" />
@@ -16,7 +18,7 @@ class Antx:
         email = d2thaWZlbmcyMDA3QDE2My5jb20
 ```
 ### Stats
-![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=True&theme=cobalt)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=antx-code&show_icons=true&theme=cobalt)
 ### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
